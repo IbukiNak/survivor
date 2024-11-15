@@ -6,8 +6,41 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 20e27e82323999141b718ae0dba18eac
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/LoadScene.unity
+    guid: 7c5371151b4a360408908dace071e184
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: 42a37a4f542016d4ca6cc0e87a6edc24
+  - enabled: 1
+    path: Assets/Scenes/GalleryScene.unity
+    guid: f876420adcd27994f819d94cbffd617b
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: db51cf3607dd01343acc0486843e4203
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 20c326ed74a3c8441af9508926de957c
+  - enabled: 1
+    path: Assets/Scenes/OptionScene.unity
+    guid: 85a94d4dcde728d40a7f99ed26807d9c
+  - enabled: 1
+    path: Assets/Scenes/PauseScene.unity
+    guid: 2043deea16cfd0f4b98256b491ee3c8f
+  - enabled: 1
+    path: Assets/Scenes/ResultScene.unity
+    guid: 2f153a81d0b305a44b4b5e6e73773433
+  - enabled: 1
+    path: Assets/Scenes/NewDataScene.unity
+    guid: 9ec61a6fe570f2148b046bf07aa5d46b
+  - enabled: 1
+    path: Assets/Scenes/PrologeScene.unity
+    guid: 52bc0b20fc986dd40acbaa7bf8e1c7a9
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
